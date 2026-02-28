@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.hizliresim.com/ns6esrn.png" alt="Omer's Header" width="100%">
+  <img src="banner.png" alt="Omer's Header" width="100%">
 </p>
 
 <p align="center">
