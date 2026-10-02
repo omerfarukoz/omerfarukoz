@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="banner.png" alt="Omer's Header" width="100%">
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=cecece&center=true&vCenter=true&width=600&lines=Running%20the%20Kitchen.%3BWe%27ll%20figure%20it%20out.%3BI%20got%20this.%3BWhoop%20Whoooop%21%3BAutomation%20Addict%3BOKAY%21%20OKAY%21%20OKAY%21%3B" alt="Typing SVG" />
   </a>
@@ -22,10 +18,6 @@ From API design to interfaces, im hands on with every single line of code. wheth
 ---
 
 ### Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omerfarukoz&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfarukoz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
